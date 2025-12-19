@@ -36,8 +36,10 @@ Baseline paper# SCCL: Supporting Clustering with Contrastive Learning
     numpy==1.19.5
 
 
-"SCCL employs two types of data augmentation: explicit augmentations and virtual augmentations. The choice of augmentation method directly impacts the performance of subsequent clustering tasks.
-Given the significant influence of this paper, many researchers have attempted to reproduce SCCL. However, inconsistent reproduction results have been reported across multiple studies focusing on short text clustering. 
+"SCHACL, similar to SCCL, employs two types of data augmentation: explicit augmentations and virtual augmentations. The choice of augmentation method directly impacts the performance of subsequent clustering tasks.
+
+Given the significant influence of this paper, many researchers have attempted to reproduce SCCL. However, inconsistent reproduction results have been reported across multiple studies focusing on short text clustering.
+
 Therefore, it is worth noting that the data augmentation option based on explicit augmentations tends to yield relatively better clustering performance.
 "
 
