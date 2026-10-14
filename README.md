@@ -1,3 +1,7 @@
+I’m very sorry for the non-standard reference formatting in the paper. This is my first research paper, 
+and I didn’t know much about the formatting rules when I submitted it. 
+I thought the journal would typeset everything uniformly later, which led to the messy references. Thanks for your understanding!
+
 SCHACL:Improving short text clustering through hybrid augmentation and contrastive learning 
 
 To acknowledge and respect the authors who first applied contrastive learning to short text clustering tasks, we cite their work as follows:
