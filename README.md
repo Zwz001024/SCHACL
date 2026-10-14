@@ -1,6 +1,4 @@
-I’m very sorry for the non-standard reference formatting in the paper. This is my first research paper, 
-and I didn’t know much about the formatting rules when I submitted it. 
-I thought the journal would typeset everything uniformly later, which led to the messy references. Thanks for your understanding!
+I am very sorry. This is the first paper I have written, and I was not very clear about how things worked when I submitted it. I thought the journal would format/typeset everything uniformly later, so some of the references in my paper are not properly formatted. I sincerely ask for everyone's understanding.
 
 SCHACL:Improving short text clustering through hybrid augmentation and contrastive learning 
 
